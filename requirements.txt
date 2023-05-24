@@ -1,0 +1,4 @@
+pyotp==2.8.0
+pyzbar==0.1.9
+qrtools==0.0.2
+Pillow==9.4.0
